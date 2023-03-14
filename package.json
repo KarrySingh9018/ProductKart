@@ -1,0 +1,27 @@
+{
+  "name": "manager_online_products",
+  "version": "1.5.0",
+  "description": "Services for managing different products in an online store",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "author": "Harekam Singh",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "joi": "^9.0.4",
+    "jsonwebtoken": "^7.1.9",
+    "lodash": "^4.17.4",
+    "mongoose": "4.10.8",
+    "url-pattern": "^1.0.3",
+    "validator": "^8.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.5.0"
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "email": "manager@product.com",
+    "password": "qwerty",
+    "phoneNumber": "1234567890",
+    "firstName": "Manager",
+    "lastName": "Online",
+    "userRole": "SUPER_ADMIN"
+  }
+]
