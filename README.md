@@ -1,17 +1,15 @@
-Manager Online Products
+ProductKart
 =====================
-
-[![Build Status](https://travis-ci.org/Harekam/manager_online_products.svg?branch=master)](https://travis-ci.org/Harekam/manager_online_products)
 
 ----------
 ### The server is implemented using only core libraries without any framework.
 
-Access link (deployed on heroku) : https://manager-online-products.herokuapp.com
+Access link (deployed on heroku) : https://product-kart.herokuapp.com
 
  - For authentication JWT tokens are used.
  - Auth Token Pattern(without quotes) : "bearer access_token"
 
-#### [Click here for DB Schema](https://manager-online-products.herokuapp.com/dbSchema)
+#### [Click here for DB Schema](https://product-kart.herokuapp.com/dbSchema)
  
 > **Tools/Services Used:**
 
